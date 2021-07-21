@@ -12,7 +12,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls=""src="video1.mp4" preload="none">
+<video id="video" controls="" src="video1.mp4" preload="none">
 
 
 
@@ -20,7 +20,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls=""src="video2.mp4" preload="none">
+<video id="video" controls="" src="video2.mp4" preload="none">
 
 
 
@@ -28,7 +28,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls=""src="video3.mp4" preload="none">
+<video id="video" controls="" src="video3.mp4" preload="none">
 
 
 
@@ -36,7 +36,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls=""src="video4.mp4" preload="none">
+<video id="video" controls="" src="video4.mp4" preload="none">
 
 
 
@@ -44,7 +44,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls=""src="video5.mp4" preload="none">
+<video id="video" controls="" src="video5.mp4" preload="none">
 
 
 
