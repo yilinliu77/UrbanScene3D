@@ -1,3 +1,7 @@
+
+
+
+
 # UrbanScene3D
 
 This is the introductions of UrbanScene3D: A Large Scale Urban Scene Dataset and Simulator. [[paper](https://arxiv.org/abs/2107.04286)], [[Project page](https://vcc.tech/UrbanScene3D/)]
@@ -12,7 +16,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 [![Watch the video]()](Documentation/misc/video1.mp4)
-<img src="misc/gif1.gif">
+<img src="https://user-images.githubusercontent.com/25240333/126533739-740c81c1-8edd-42ab-9b17-0dc871475064.mp4">
 
 
 
