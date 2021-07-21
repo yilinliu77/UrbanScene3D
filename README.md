@@ -2,7 +2,7 @@
 
 This is the introductions of UrbanScene3D: A Large Scale Urban Scene Dataset and Simulator. [[paper](https://arxiv.org/abs/2107.04286)], [[Project page](https://vcc.tech/UrbanScene3D/)]
 
-<img src="overview.jpg">
+<img src="misc/overview.jpg">
 
 <p align="center">Figure 1: Overview of UrbanScene3D.</p>
 
@@ -11,9 +11,9 @@ This is the introductions of UrbanScene3D: A Large Scale Urban Scene Dataset and
 We present a large scale urban scene dataset associated with a handy simulator based on Unreal Engine 4 and AirSim, which consists of both man-made and real-world reconstruction scenes in different scales, referred to as *[UrbanScene3D ](https://vcc.tech/UrbanScene3D)*. The manually made scene models have compact structures, which are carefully constructed/designed by professional modelers according to the images and maps of target areas; see the first row of Figure 1 for a glance. In contrast, *UrbanScene3D* also offers dense, detailed scene models reconstructed by aerial images through multi-view stereo (MVS) techniques. These scenes have realistic textures and meticulous structures; see e.g., the second row of Figure 1. We have also released the originally captured aerial images that have been used to reconstruct the 3D scene models, as well as a set of 4K video sequences, all of which would facilitate designing algorithms, such SLAM and MVS; please check some samples shown in the third and fourth rows of Figure 1.
 
 
-<div align=center>
-<img src="gif1.gif">
-</div>
+
+<img src="misc/gif1.gif">
+
 
 
 
@@ -21,9 +21,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<div align=center>
-<img src="gif2.gif">
-</div>
+<img src="misc/gif2.gif">
 
 
 
@@ -32,9 +30,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<div align=center>
-<img src="gif3.gif">
-</div>
+<img src="misc/gif3.gif">
 
 
 
@@ -43,9 +39,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<div align=center>
-<img src="gif4.gif">
-</div>
+<img src="misc/gif4.gif">
 
 
 
@@ -53,9 +47,8 @@ We present a large scale urban scene dataset associated with a handy simulator b
    <p align="center">Video 4: A sample of aerial videos aimed at 3D urban scene acquisition.</p>
 
 
-<div align=center>
-<img src="gif5.gif">
-</div>
+
+<img src="misc/gif5.gif">
 
 
 
@@ -70,10 +63,10 @@ We present a large scale urban scene dataset associated with a handy simulator b
 Note that all DATA and CODE are **free for Research and Education Use ONLY**.
 Please cite our [paper](https://arxiv.org/abs/2107.04286) if you use any part of our ALGORITHM, CODE, DATA or RESULTS in any publication.
 
-- Download via [**FTP**](ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip)
+- Download via [**Baidu Netdisk**](https://pan.baidu.com/s/1ft1_5kFckPv7BTdMPlC4oA) (code: vccc, recommend)
+- Download via [**Dropbox**](https://www.dropbox.com/sh/tx8n48ayjxjp9su/AACoNqF8VOosMvHXL1sDl4Qaa?dl=0) (faster outside China, recommend)
 - Download via [**HTTP**](https://nas.moutong.org:4430/UrbanScene3D-VCC.zip)
-- Download via [**Baidu Netdisk**](https://pan.baidu.com/s/1ft1_5kFckPv7BTdMPlC4oA) (code: vccc)
-- Download via [**Dropbox**](https://www.dropbox.com/sh/tx8n48ayjxjp9su/AACoNqF8VOosMvHXL1sDl4Qaa?dl=0) (faster outside China)
+- Download via [**FTP: **](ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip) [ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip](ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip)
 - Dataset Description Download via [**arXiv**](https://arxiv.org/abs/2107.04286)
 
 (Note: In Baidu Netdisk and Dropbox, we have compressed the files in volume. Please download all the files and extract the main compression package)
