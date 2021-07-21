@@ -12,7 +12,8 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls="" src="video1.mp4" preload="none">
+<img src="gif1.gif">
+
 
 
 
@@ -20,7 +21,8 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls="" src="video2.mp4" preload="none">
+<img src="gif2.gif">
+
 
 
 
@@ -28,7 +30,8 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls="" src="video3.mp4" preload="none">
+<img src="gif3.gif">
+
 
 
 
@@ -36,7 +39,8 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls="" src="video4.mp4" preload="none">
+<img src="gif4.gif">
+
 
 
 
@@ -44,7 +48,8 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<video id="video" controls="" src="video5.mp4" preload="none">
+<img src="gif5.gif">
+
 
 
 
@@ -70,7 +75,7 @@ Please cite our [paper](https://arxiv.org/abs/2107.04286) if you use any part of
 
 ## Requirements
 
-The released zip file contains the unreal project of the above proposed urban scenes. Users can use either pure [**Unreal Engine**](https://docs.unrealengine.com/en-US/index.html) or [**AirSim client (both in C++ or python)**](https://microsoft.github.io/AirSim/apis/) to capture their desired data. The ground truth textured meshes and their relevant poses are also provided in the Unreal project.
+The released zip file contains the unreal project of the above proposed urban scenes. As Video 5 shown, users can use either pure [**Unreal Engine**](https://docs.unrealengine.com/en-US/index.html) or [**AirSim client (both in C++ or python)**](https://microsoft.github.io/AirSim/apis/) to capture their desired data. The ground truth textured meshes and their relevant poses are also provided in the Unreal project.
 
 ​	Required packages:
 
