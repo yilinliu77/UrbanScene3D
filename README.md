@@ -4,24 +4,52 @@ This is the introductions of UrbanScene3D: A Large Scale Urban Scene Dataset and
 
 <img src="overview.jpg">
 
-<center>Figure 1: Overview of UrbanScene3D.</center>
+<p align="center">Figure 1: Overview of UrbanScene3D.</p>
+
+
 
 We present a large scale urban scene dataset associated with a handy simulator based on Unreal Engine 4 and AirSim, which consists of both man-made and real-world reconstruction scenes in different scales, referred to as *[UrbanScene3D ](https://vcc.tech/UrbanScene3D)*. The manually made scene models have compact structures, which are carefully constructed/designed by professional modelers according to the images and maps of target areas; see the first row of Figure 1 for a glance. In contrast, *UrbanScene3D* also offers dense, detailed scene models reconstructed by aerial images through multi-view stereo (MVS) techniques. These scenes have realistic textures and meticulous structures; see e.g., the second row of Figure 1. We have also released the originally captured aerial images that have been used to reconstruct the 3D scene models, as well as a set of 4K video sequences, all of which would facilitate designing algorithms, such SLAM and MVS; please check some samples shown in the third and fourth rows of Figure 1.
 
 
 
-<video id="video" controls=""src="https://vcc.tech/UrbanScene3D/files/1-CAD-Tour.mp4" preload="none">
-<center>Video 1: Touring a virtual city scene. Note that users can obtain the corresponding CAD models associated with instance segmentation</center>
+<video id="video" controls=""src="video1.mp4" preload="none">
 
 
 
-<video id="video" controls=""src="https://vcc.tech/UrbanScene3D/files/5%E8%A7%86%E9%A2%91%E5%90%88%E6%88%904.mp4" preload="none">
-<center>Video 2: Touring the real-world scenes. Note that these scenes are reconstructed by real-world aerial images, thus they have detailed geometries, structures and realistic textures. The instance segmentation is available as well</center>
+<p align="center">Video 1: Touring a virtual city scene. Note that users can obtain the corresponding CAD models associated with instance segmentation.</p>
 
 
 
-<video id="video" controls=""src="https://vcc.tech/UrbanScene3D/files/%E8%BD%AC%E5%9C%883.mp4" preload="none">
-<center>Video 3: A real-world model reconstructed with aerial images captured from optimized 3D views</center>
+<video id="video" controls=""src="video2.mp4" preload="none">
+
+
+
+<p align="center">Video 2: Touring the real-world scenes. Note that these scenes are reconstructed by real-world aerial images, thus they have detailed geometries, structures and realistic textures. The instance segmentation is available as well.</p>
+
+
+
+<video id="video" controls=""src="video3.mp4" preload="none">
+
+
+
+<p align="center">Video 3: A real-world model reconstructed with aerial images captured from optimized 3D views.</p>
+
+
+
+<video id="video" controls=""src="video4.mp4" preload="none">
+
+
+
+   <p align="center">Video 4: A sample of aerial videos aimed at 3D urban scene acquisition.</p>
+
+
+
+<video id="video" controls=""src="video5.mp4" preload="none">
+
+
+
+   <p align="center">Video 5: Applications of our dataset and simulator, e.g., autonomous driving, drone navigation, and intelligent aerial acquisition.</p>
+
 
 
 
