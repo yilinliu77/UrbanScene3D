@@ -66,7 +66,7 @@ Please cite our [paper](https://arxiv.org/abs/2107.04286) if you use any part of
 - Download via [**Baidu Netdisk**](https://pan.baidu.com/s/1ft1_5kFckPv7BTdMPlC4oA) (code: vccc, recommend)
 - Download via [**Dropbox**](https://www.dropbox.com/sh/tx8n48ayjxjp9su/AACoNqF8VOosMvHXL1sDl4Qaa?dl=0) (faster outside China, recommend)
 - Download via [**HTTP**](https://nas.moutong.org:4430/UrbanScene3D-VCC.zip)
-- Download via [**FTP: **](ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip) [ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip](ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip)
+- Download via FTP (ftp://nas.moutong.org/dataset/UrbanScene3D-VCC.zip)
 - Dataset Description Download via [**arXiv**](https://arxiv.org/abs/2107.04286)
 
 (Note: In Baidu Netdisk and Dropbox, we have compressed the files in volume. Please download all the files and extract the main compression package)
