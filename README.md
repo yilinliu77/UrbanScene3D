@@ -15,8 +15,8 @@ This is the introductions of UrbanScene3D: A Large Scale Urban Scene Dataset and
 We present a large scale urban scene dataset associated with a handy simulator based on Unreal Engine 4 and AirSim, which consists of both man-made and real-world reconstruction scenes in different scales, referred to as *[UrbanScene3D ](https://vcc.tech/UrbanScene3D)*. The manually made scene models have compact structures, which are carefully constructed/designed by professional modelers according to the images and maps of target areas; see the first row of Figure 1 for a glance. In contrast, *UrbanScene3D* also offers dense, detailed scene models reconstructed by aerial images through multi-view stereo (MVS) techniques. These scenes have realistic textures and meticulous structures; see e.g., the second row of Figure 1. We have also released the originally captured aerial images that have been used to reconstruct the 3D scene models, as well as a set of 4K video sequences, all of which would facilitate designing algorithms, such SLAM and MVS; please check some samples shown in the third and fourth rows of Figure 1.
 
 
-[![Watch the video]()](https://user-images.githubusercontent.com/25240333/126533739-740c81c1-8edd-42ab-9b17-0dc871475064.mp4)
-<img src="">
+<!-- [![Watch the video]()](https://user-images.githubusercontent.com/25240333/126533739-740c81c1-8edd-42ab-9b17-0dc871475064.mp4) -->
+<img src="misc/gif1.gif">
 
 
 
