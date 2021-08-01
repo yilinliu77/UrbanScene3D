@@ -16,8 +16,8 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 <!-- [![Watch the video]()](https://user-images.githubusercontent.com/25240333/126533739-740c81c1-8edd-42ab-9b17-0dc871475064.mp4) -->
-<img src="misc/gif1.gif">
 
+<div align=center><img src="misc/gif1.gif"></div>
 
 
 
@@ -25,7 +25,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<img src="misc/gif2.gif">
+<div align=center><img src="misc/gif2.gif"></div>
 
 
 
@@ -34,7 +34,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<img src="misc/gif3.gif">
+<div align=center><img src="misc/gif3.gif"></div>
 
 
 
@@ -43,7 +43,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<img src="misc/gif4.gif">
+<div align=center><img src="misc/gif4.gif"></div>
 
 
 
@@ -52,7 +52,7 @@ We present a large scale urban scene dataset associated with a handy simulator b
 
 
 
-<img src="misc/gif5.gif">
+<div align=center><img src="misc/gif5.gif"></div>
 
 
 
